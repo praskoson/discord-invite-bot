@@ -1,0 +1,6 @@
+.vscode
+config.json
+node_modules
+log.json
+**.bat
+.eslintrc.json
